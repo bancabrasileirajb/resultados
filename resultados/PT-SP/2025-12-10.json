@@ -538,6 +538,99 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 7251, 6846, 7481, 6110, 9131, 7676, 2841, 5481, 1610, 4427, 6737, 3504, 7331, 2435, 5303, 6372, 7534, 3033, 7415, 9664"
+    },
+    "SP, 20hs - PT FEDERAL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4385",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4181",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2602",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5231",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4375",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0774",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "503",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "5481": [
+          "Dezena no segundo prêmio!<br>com o palpite 5481",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 5481"
+        ],
+        "6587": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6587"
+        ],
+        "7481": [
+          "Dezena no segundo prêmio!<br>com o palpite 7481",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 7481"
+        ],
+        "7583": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 7583"
+        ],
+        "7676": [
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 7676",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7676"
+        ],
+        "8974": [
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 8974",
+          "Dezena no sexto prêmio!<br>com o palpite 8974",
+          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 8974"
+        ],
+        "9131": [
+          "Dezena no quarto prêmio!<br>com o palpite 9131",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 9131"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🐅",
+          "🐂",
+          "🐪",
+          "🦚"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7583, 6587, 6469, 8974, 5047, 7668, 5549, 8867, 3794, 0538, 7251, 6846, 7481, 6110, 9131, 7676, 2841, 5481, 1610, 4427"
     }
   },
   "1-10": {
@@ -1688,6 +1781,103 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 7583, 6587, 6469, 8974, 5047, 7668, 5549, 8867, 3794, 0538, 7251, 6846, 7481, 6110, 9131, 7676, 2841, 5481, 1610, 4427"
+    },
+    "SP, 20hs - PT FEDERAL do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4385",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4181",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2602",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5231",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4375",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4425",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3162",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8803",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5121",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2285",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
+      ],
+      "frases": {
+        "6587": [
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6587",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6587",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 6587",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 6587"
+        ],
+        "7583": [
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 7583",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 7583"
+        ],
+        "8974": [
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 8974",
+          "PAVÃO 🦚 no quinto prêmio!<br>com o palpite 8974"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐅",
+          "🐂",
+          "🦚"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7583, 6587, 6469, 8974, 5047, 7668, 5549, 8867, 3794, 0538, 7583, 6587, 6469, 8974, 5047, 7668, 5549, 8867, 3794, 0538"
     }
   }
 }
