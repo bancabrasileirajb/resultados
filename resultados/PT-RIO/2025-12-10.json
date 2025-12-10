@@ -1010,6 +1010,112 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 7734, 7759, 2593, 6785, 3798, 7726, 7757, 3598, 4935, 2685, 1723, 4127, 7345, 7538, 9497, 1477, 7135, 2243, 3758, 4843"
+    },
+    "A FEDERAL DO BRASIL - RJ do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4385",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4181",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2602",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5231",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4375",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4425",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3162",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8803",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5121",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2285",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
+      ],
+      "frases": {
+        "2685": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2685",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2685",
+          "Dezena no primeiro prêmio!<br>com o palpite 2685",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2685",
+          "Dezena no décimo prêmio!<br>com o palpite 2685",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 2685",
+          "Dezena no décimo prêmio!<br>com o palpite 2685",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 2685"
+        ],
+        "6785": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6785",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6785",
+          "Dezena no primeiro prêmio!<br>com o palpite 6785",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6785",
+          "Dezena no décimo prêmio!<br>com o palpite 6785",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 6785",
+          "Dezena no décimo prêmio!<br>com o palpite 6785",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 6785"
+        ],
+        "7726": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7726",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7726"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 8,
+        "Grupo": [
+          "🐅",
+          "🐑"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7734, 7759, 2593, 6785, 3798, 7726, 7757, 3598, 4935, 2685, 7734, 7759, 2593, 6785, 3798, 7726, 7757, 3598, 4935, 2685"
     }
   }
 }
