@@ -1,0 +1,64 @@
+name: Delete Old Lottery Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 5 * * *' # Roda todos os dias às 5h UTC (2h da manhã no fuso horário de Brasília, considerando UTC-3)
+
+jobs:
+  delete-old-files:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permissão para escrever no repositório (necessário para commit e push)
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Delete old lottery data
+        run: |
+          # Obter a data de 90 dias atrás
+          # Usando 'date -I -d' para garantir formato YYYY-MM-DD e '90 days ago' para o período correto
+          ninety_days_ago=$(date -I -d "90 days ago")
+          echo "Data limite para exclusão: $ninety_days_ago"
+
+          # Verificar se o arquivo lottery.json existe
+          if [ ! -f ./resultados/lottery.json ]; then
+            echo "Arquivo ./resultados/lottery.json não encontrado. Saindo."
+            exit 0
+          fi
+
+          # Ler o arquivo lottery.json e iterar sobre os caminhos
+          # Adicionado -e para garantir que o arquivo JSON é válido e -c para compactar a saída
+          LOTTERY_PATHS=$(jq -r '.[].path' ./resultados/lottery.json)
+
+          if [ -z "$LOTTERY_PATHS" ]; then
+            echo "Nenhum caminho encontrado em lottery.json. Saindo."
+            exit 0
+          fi
+
+          for lottery_path in $LOTTERY_PATHS; do
+            echo "Processando diretório: ./resultados/$lottery_path"
+            # Usar find com -maxdepth 1 para evitar recursão indesejada e -type f para arquivos
+            find "./resultados/$lottery_path" -maxdepth 1 -type f -name "*.json" -print0 | while IFS= read -r -d '' file; do
+              filename=$(basename "$file")
+              # Extrair a parte da data do nome do arquivo. Assumindo formato YYYY-MM-DD.json
+              date_part=$(echo "$filename" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}')
+
+              if [ -n "$date_part" ] && [[ "$date_part" < "$ninety_days_ago" ]]; then
+                echo "Deletando arquivo antigo: $file"
+                rm "$file"
+              fi
+            done
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Delete old lottery data" || echo "No changes to commit"
+          git push
+
