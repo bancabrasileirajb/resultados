@@ -410,6 +410,79 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 8785, 2147, 2727, 1937, 6620, 8221, 7179, 8423, 5777, 1816, 7223, 5993, 1948, 8226, 8374, 7518, 2992, 2942, 3386, 8602"
+    },
+    "A FEDERAL DO BRASIL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4385",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4181",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2602",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5231",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4375",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0774",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "503",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "8002": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8002",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 8002",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 8002"
+        ],
+        "8785": [
+          "Dezena no primeiro prêmio!<br>com o palpite 8785",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 8785"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐅",
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8880, 1909, 3306, 7926, 6728, 8137, 8939, 8002, 0966, 4793, 8785, 2147, 2727, 1937, 6620, 8221, 7179, 8423, 5777, 1816"
     }
   },
   "1-10": {
