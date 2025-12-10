@@ -419,6 +419,77 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 7458, 1765, 2496, 0505, 2893, 7120, 4745, 5690, 8565, 1237, 4970, 6913, 6633, 1914, 4342, 4661, 9969, 7131, 0334, 6867"
+    },
+    "FEDERAL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4385",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4181",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2602",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5231",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4375",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0774",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "503",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "5229": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 5229"
+        ],
+        "6981": [
+          "Dezena no segundo prêmio!<br>com o palpite 6981",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 6981"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🐂",
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6981, 5229, 3722, 8262, 1319, 6538, 9272, 8226, 1922, 1471, 7458, 1765, 2496, 0505, 2893, 7120, 4745, 5690, 8565, 1237"
     }
   },
   "1-10": {
@@ -1298,6 +1369,119 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 6981, 5229, 3722, 8262, 1319, 6538, 9272, 8226, 1922, 1471, 7458, 1765, 2496, 0505, 2893, 7120, 4745, 5690, 8565, 1237"
+    },
+    "FEDERAL do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4385",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4181",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2602",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5231",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4375",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4425",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3162",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8803",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5121",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2285",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
+      ],
+      "frases": {
+        "1922": [
+          "CABRA 🐐 no nono prêmio!<br>com o palpite 1922",
+          "CABRA 🐐 no nono prêmio!<br>com o palpite 1922"
+        ],
+        "3722": [
+          "CABRA 🐐 no nono prêmio!<br>com o palpite 3722",
+          "CABRA 🐐 no nono prêmio!<br>com o palpite 3722"
+        ],
+        "5229": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 5229",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 5229"
+        ],
+        "6981": [
+          "Dezena no segundo prêmio!<br>com o palpite 6981",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 6981",
+          "Dezena no segundo prêmio!<br>com o palpite 6981",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 6981"
+        ],
+        "8226": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 8226",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 8226"
+        ],
+        "8262": [
+          "Dezena no sétimo prêmio!<br>com o palpite 8262",
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 8262",
+          "Dezena no sétimo prêmio!<br>com o palpite 8262",
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 8262"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🐂",
+          "🐪",
+          "🐑",
+          "🦁",
+          "🐐"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6981, 5229, 3722, 8262, 1319, 6538, 9272, 8226, 1922, 1471, 6981, 5229, 3722, 8262, 1319, 6538, 9272, 8226, 1922, 1471"
     }
   }
 }
