@@ -281,6 +281,77 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 1723, 4127, 7345, 7538, 9497, 1477, 7135, 2243, 3758, 4843, 4719, 3042, 2396, 2504, 7293, 4322, 7035, 1490, 9264, 2065"
+    },
+    "A FEDERAL DO BRASIL - RJ": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4385",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4181",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2602",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5231",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4375",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0774",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "503",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2685": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2685",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 2685"
+        ],
+        "6785": [
+          "Dezena no primeiro prêmio!<br>com o palpite 6785",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 6785"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7734, 7759, 2593, 6785, 3798, 7726, 7757, 3598, 4935, 2685, 1723, 4127, 7345, 7538, 9497, 1477, 7135, 2243, 3758, 4843"
     }
   },
   "1-10": {
