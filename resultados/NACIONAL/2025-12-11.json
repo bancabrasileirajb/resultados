@@ -215,6 +215,77 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 1231, 9255, 4646, 3529, 6825, 1943, 2265, 3542, 1569, 4805, 5536, 8199, 9060, 2720, 9874, 5892, 5107, 3962, 6900, 7250"
+    },
+    "Nacional - LN 12:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6810",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9091",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5361",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1387",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3569",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "6218",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1569": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 1569",
+          "Dezena no quinto prêmio!<br>com o palpite 1569",
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 1569"
+        ],
+        "3120": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 3120"
+        ],
+        "4491": [
+          "Dezena no segundo prêmio!<br>com o palpite 4491",
+          "URSO 🐻 no segundo prêmio!<br>com o palpite 4491"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🐻",
+          "🐖",
+          "🐕"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6513, 4491, 3232, 0180, 2575, 6430, 5421, 1938, 3120, 3900, 1231, 9255, 4646, 3529, 6825, 1943, 2265, 3542, 1569, 4805"
     }
   },
   "1-10": {
