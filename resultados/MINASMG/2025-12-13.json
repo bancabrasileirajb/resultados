@@ -102,6 +102,115 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 4455, 1865, 0726, 1564, 1398, 5902, 1182, 2659, 4682, 8339, 0717, 1201, 9639, 0177, 2562, 5600, 7987, 1675, 8729, 2734"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7379",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4130",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2638",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3806",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7560",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "25513",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "475",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2638": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 2638",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 2638",
+          "Dezena no terceiro prêmio!<br>com o palpite 2638",
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 2638"
+        ],
+        "2659": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 2659"
+        ],
+        "3806": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 3806",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 3806",
+          "Dezena no quarto prêmio!<br>com o palpite 3806",
+          "ÁGUIA 🦅 no quarto prêmio!<br>com o palpite 3806"
+        ],
+        "4130": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 4130",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 4130",
+          "Dezena no segundo prêmio!<br>com o palpite 4130",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 4130"
+        ],
+        "7379": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 7379",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 7379",
+          "Dezena no primeiro prêmio!<br>com o palpite 7379",
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 7379"
+        ],
+        "7560": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 7560",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 7560",
+          "Dezena no quinto prêmio!<br>com o palpite 7560",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 7560"
+        ],
+        "8339": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 8339"
+        ],
+        "9639": [
+          "COELHO 🐇 no terceiro prêmio!<br>com o palpite 9639"
+        ],
+        "0177": [
+          "PERU 🦃 no primeiro prêmio!<br>com o palpite 0177"
+        ]
+      },
+      "acertos": {
+        "Milhar": 5,
+        "Centena": 10,
+        "Dezena": 10,
+        "Grupo": [
+          "🦃",
+          "🐪",
+          "🐇",
+          "🦅",
+          "🐊"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7379, 4130, 2638, 3806, 7560, 4455, 1865, 0726, 1564, 1398, 5902, 1182, 2659, 4682, 8339, 0717, 1201, 9639, 0177, 2562"
     }
   }
 }
