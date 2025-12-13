@@ -491,6 +491,99 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 6276, 5679, 3811, 5988, 6231, 6535, 2689, 7718, 6918, 1845, 3750, 0996, 1826, 4282, 5061, 3014, 7982, 5928, 0662, 3501"
+    },
+    "FEDERAL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3803",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6467",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4193",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4917",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "541",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1845": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 1845"
+        ],
+        "4193": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 4193",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 4193",
+          "Dezena no quarto prêmio!<br>com o palpite 4193",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 4193"
+        ],
+        "6918": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 6918"
+        ],
+        "7718": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 7718"
+        ],
+        "8246": [
+          "Dezena no segundo prêmio!<br>com o palpite 8246",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8246"
+        ],
+        "9603": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9603",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 9603"
+        ],
+        "0844": [
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 0844"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 4,
+        "Grupo": [
+          "🪶",
+          "🐘",
+          "🦌",
+          "🐕",
+          "🐎"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0429, 8246, 4350, 4193, 8732, 0844, 4231, 2459, 9603, 3087, 6276, 5679, 3811, 5988, 6231, 6535, 2689, 7718, 6918, 1845"
     }
   },
   "1-10": {
@@ -1481,6 +1574,116 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 0429, 8246, 4350, 4193, 8732, 0844, 4231, 2459, 9603, 3087, 6276, 5679, 3811, 5988, 6231, 6535, 2689, 7718, 6918, 1845"
+    },
+    "FEDERAL do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3803",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6467",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4193",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3264",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0469",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3673",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0464",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        }
+      ],
+      "frases": {
+        "4193": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 4193",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 4193",
+          "Dezena no quarto prêmio!<br>com o palpite 4193",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 4193",
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 4193",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 4193",
+          "Dezena no quarto prêmio!<br>com o palpite 4193",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 4193"
+        ],
+        "8246": [
+          "Dezena no segundo prêmio!<br>com o palpite 8246",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8246",
+          "Dezena no segundo prêmio!<br>com o palpite 8246",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 8246"
+        ],
+        "9603": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9603",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 9603",
+          "Dezena no primeiro prêmio!<br>com o palpite 9603",
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 9603"
+        ],
+        "0844": [
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 0844",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 0844"
+        ]
+      },
+      "acertos": {
+        "Milhar": 2,
+        "Centena": 4,
+        "Dezena": 8,
+        "Grupo": [
+          "🪶",
+          "🐘",
+          "🦌",
+          "🐎"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0429, 8246, 4350, 4193, 8732, 0844, 4231, 2459, 9603, 3087, 0429, 8246, 4350, 4193, 8732, 0844, 4231, 2459, 9603, 3087"
     }
   }
 }
