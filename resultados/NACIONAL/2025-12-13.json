@@ -430,6 +430,88 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3174, 0829, 6592, 6910, 3726, 3066, 1859, 7291, 4920, 8367, 6002, 2576, 1189, 9347, 0861, 6219, 0513, 0784, 2697, 0188"
+    },
+    "A FEDERAL DO BRASIL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3803",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6467",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4193",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4917",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "541",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3066": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 3066"
+        ],
+        "4920": [
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 4920"
+        ],
+        "6595": [
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 6595"
+        ],
+        "7893": [
+          "Dezena no quarto prêmio!<br>com o palpite 7893",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 7893"
+        ],
+        "8367": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8367",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 8367"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐒",
+          "🦌",
+          "🐕"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3971, 2784, 6595, 9737, 7391, 3269, 9757, 7893, 1457, 2854, 3174, 0829, 6592, 6910, 3726, 3066, 1859, 7291, 4920, 8367"
     }
   },
   "1-10": {
@@ -1422,6 +1504,108 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3971, 2784, 6595, 9737, 7391, 3269, 9757, 7893, 1457, 2854, 3174, 0829, 6592, 6910, 3726, 3066, 1859, 7291, 4920, 8367"
+    },
+    "A FEDERAL DO BRASIL do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3803",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6467",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4193",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3264",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0469",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3673",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0464",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        }
+      ],
+      "frases": {
+        "3269": [
+          "Dezena no oitavo prêmio!<br>com o palpite 3269",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3269",
+          "Dezena no oitavo prêmio!<br>com o palpite 3269",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3269"
+        ],
+        "3971": [
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3971",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 3971"
+        ],
+        "6595": [
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 6595",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 6595"
+        ],
+        "7893": [
+          "Dezena no quarto prêmio!<br>com o palpite 7893",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 7893",
+          "Dezena no quarto prêmio!<br>com o palpite 7893",
+          "VEADO 🦌 no quarto prêmio!<br>com o palpite 7893"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🦌",
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3971, 2784, 6595, 9737, 7391, 3269, 9757, 7893, 1457, 2854, 3971, 2784, 6595, 9737, 7391, 3269, 9757, 7893, 1457, 2854"
     }
   }
 }
