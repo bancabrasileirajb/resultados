@@ -211,6 +211,81 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 7379, 4130, 2638, 3806, 7560, 4455, 1865, 0726, 1564, 1398, 5902, 1182, 2659, 4682, 8339, 0717, 1201, 9639, 0177, 2562"
+    },
+    "MINAS FEDERAL - MG": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3803",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6467",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4193",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4917",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "541",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1865": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 1865"
+        ],
+        "3806": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 3806",
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 3806"
+        ],
+        "5902": [
+          "AVESTRUZ 🪶 no primeiro prêmio!<br>com o palpite 5902"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🪶",
+          "🐒",
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7379, 4130, 2638, 3806, 7560, 7379, 4130, 2638, 3806, 7560, 4455, 1865, 0726, 1564, 1398, 5902, 1182, 2659, 4682, 8339"
     }
   }
 }
