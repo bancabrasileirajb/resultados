@@ -495,82 +495,77 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "6766",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "7199",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "3900",
-          "Grupo": "25",
-          "Bicho": "Vaca"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "2107",
-          "Grupo": "02",
-          "Bicho": "Águia"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "6862",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "9982",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "7904",
+          "Milhar": "3803",
           "Grupo": "01",
           "Bicho": "Avestruz"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "7551",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Prêmio": "2º",
+          "Milhar": "2146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
         },
         {
-          "Prêmio": "9º",
-          "Milhar": "0893",
+          "Prêmio": "3º",
+          "Milhar": "6467",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4193",
           "Grupo": "24",
           "Bicho": "Veado"
         },
         {
+          "Prêmio": "5º",
+          "Milhar": "8308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3264",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0469",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3673",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "5987",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "0464",
+          "Grupo": "16",
+          "Bicho": "Leão"
         }
       ],
       "frases": {
-        "2061": [
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 2061"
-        ],
-        "2096": [
-          "VEADO 🦌 no nono prêmio!<br>com o palpite 2096"
-        ],
-        "5051": [
-          "Dezena no oitavo prêmio!<br>com o palpite 5051",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 5051"
-        ],
-        "6382": [
-          "Dezena no sexto prêmio!<br>com o palpite 6382",
-          "TOURO 🐂 no sexto prêmio!<br>com o palpite 6382"
+        "3446": [
+          "Dezena no segundo prêmio!<br>com o palpite 3446",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 3446",
+          "Dezena no segundo prêmio!<br>com o palpite 3446",
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 3446"
         ],
         "7263": [
-          "LEÃO 🦁 no quinto prêmio!<br>com o palpite 7263"
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 7263",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 7263",
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 7263",
+          "LEÃO 🦁 no décimo prêmio!<br>com o palpite 7263"
         ]
       },
       "acertos": {
@@ -578,13 +573,11 @@
         "Centena": 0,
         "Dezena": 2,
         "Grupo": [
-          "🦁",
-          "🐂",
-          "🐓",
-          "🦌"
+          "🐘",
+          "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7263, 6382, 3446, 5137, 1625, 7025, 6978, 6334, 0118, 7956, 2096, 2061, 7415, 5051, 1276, 4742, 5727, 7339, 6454, 2832"
+      "resumo": "Palpites dados para esta extração: 7263, 6382, 3446, 5137, 1625, 7025, 6978, 6334, 0118, 7956, 7263, 6382, 3446, 5137, 1625, 7025, 6978, 6334, 0118, 7956"
     },
     "LOTECE - CE, 19:00 (noite)": {
       "cabecalhos": [
