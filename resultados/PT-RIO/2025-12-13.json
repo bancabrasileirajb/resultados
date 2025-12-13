@@ -311,6 +311,81 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 9348, 9451, 7276, 2790, 3370, 9972, 3427, 4579, 8160, 8373, 3351, 1260, 4181, 0150, 3837, 3140, 3211, 5685, 1010, 5825"
+    },
+    "A FEDERAL DO BRASIL - RJ": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3803",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6467",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4193",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4917",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "541",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "4266": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 4266"
+        ],
+        "5241": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5241",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 5241"
+        ],
+        "9348": [
+          "ELEFANTE 🐘 no segundo prêmio!<br>com o palpite 9348"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🐘",
+          "🐒",
+          "🐎"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6882, 5241, 7328, 9781, 4266, 6579, 8237, 8428, 2181, 8923, 9348, 9451, 7276, 2790, 3370, 9972, 3427, 4579, 8160, 8373"
     }
   },
   "1-10": {
@@ -974,6 +1049,98 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 6882, 5241, 7328, 9781, 4266, 6579, 8237, 8428, 2181, 8923, 9348, 9451, 7276, 2790, 3370, 9972, 3427, 4579, 8160, 8373"
+    },
+    "A FEDERAL DO BRASIL - RJ do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3803",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6467",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4193",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8308",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3264",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8141",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0469",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3673",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0464",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        }
+      ],
+      "frases": {
+        "4266": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 4266",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 4266"
+        ],
+        "5241": [
+          "Dezena no sétimo prêmio!<br>com o palpite 5241",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 5241",
+          "Dezena no sétimo prêmio!<br>com o palpite 5241",
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 5241"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐒",
+          "🐎"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6882, 5241, 7328, 9781, 4266, 6579, 8237, 8428, 2181, 8923, 6882, 5241, 7328, 9781, 4266, 6579, 8237, 8428, 2181, 8923"
     }
   }
 }
