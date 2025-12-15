@@ -117,6 +117,133 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 2627, 8092, 6861, 2205, 1430, 7162, 1481, 7104, 5008, 0510, 7379, 4130, 2638, 3806, 7560, 7379, 4130, 2638, 3806, 7560"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5096",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1630",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9827",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7879",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4892",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "29324",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "306",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1430": [
+          "Dezena no segundo prêmio!<br>com o palpite 1430",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 1430",
+          "Dezena no segundo prêmio!<br>com o palpite 1430",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 1430",
+          "Dezena no segundo prêmio!<br>com o palpite 1430",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 1430"
+        ],
+        "1630": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 1630",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 1630",
+          "Dezena no segundo prêmio!<br>com o palpite 1630",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 1630"
+        ],
+        "2205": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 2205",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 2205",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 2205"
+        ],
+        "2627": [
+          "Dezena no terceiro prêmio!<br>com o palpite 2627",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 2627",
+          "Dezena no terceiro prêmio!<br>com o palpite 2627",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 2627",
+          "Dezena no terceiro prêmio!<br>com o palpite 2627",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 2627"
+        ],
+        "4892": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 4892",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 4892",
+          "Dezena no quinto prêmio!<br>com o palpite 4892",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 4892"
+        ],
+        "5096": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 5096",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 5096",
+          "Dezena no primeiro prêmio!<br>com o palpite 5096",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 5096"
+        ],
+        "7879": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 7879",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 7879",
+          "Dezena no quarto prêmio!<br>com o palpite 7879",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 7879"
+        ],
+        "8092": [
+          "Dezena no quinto prêmio!<br>com o palpite 8092",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 8092",
+          "Dezena no quinto prêmio!<br>com o palpite 8092",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 8092",
+          "Dezena no quinto prêmio!<br>com o palpite 8092",
+          "URSO 🐻 no quinto prêmio!<br>com o palpite 8092"
+        ],
+        "9827": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 9827",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 9827",
+          "Dezena no terceiro prêmio!<br>com o palpite 9827",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 9827"
+        ]
+      },
+      "acertos": {
+        "Milhar": 5,
+        "Centena": 10,
+        "Dezena": 19,
+        "Grupo": [
+          "🦌",
+          "🐪",
+          "🐑",
+          "🦃",
+          "🐻",
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 5096, 1630, 9827, 7879, 4892, 2627, 8092, 6861, 2205, 1430, 2627, 8092, 6861, 2205, 1430, 2627, 8092, 6861, 2205, 1430"
     }
   }
 }
