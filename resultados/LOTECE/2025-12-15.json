@@ -497,6 +497,175 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 2040, 6209, 7983, 4180, 0248, 7557, 3382, 7825, 7612, 8345, 3292, 9615, 4883, 3457, 1569, 8481, 8853, 9853, 7246, 4541"
+    },
+    "LOTECE - CE, 19:00 (noite)": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6450",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4780",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7621",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6980",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8355",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5140",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "5656",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3577",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0475",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "6774",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
+      ],
+      "frases": {
+        "2040": [
+          "Dezena no sexto prêmio!<br>com o palpite 2040",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 2040"
+        ],
+        "3577": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 3577",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 3577",
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 3577",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 3577",
+          "Dezena no oitavo prêmio!<br>com o palpite 3577",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 3577"
+        ],
+        "4180": [
+          "Dezena no segundo prêmio!<br>com o palpite 4180",
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 4180",
+          "Dezena no quarto prêmio!<br>com o palpite 4180",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 4180",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 4180"
+        ],
+        "4780": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 4780",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 4780",
+          "Dezena no segundo prêmio!<br>com o palpite 4780",
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 4780",
+          "Dezena no quarto prêmio!<br>com o palpite 4780",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 4780",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 4780"
+        ],
+        "5140": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 5140",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 5140",
+          "Dezena no sexto prêmio!<br>com o palpite 5140",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 5140"
+        ],
+        "5656": [
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 5656",
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 5656",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 5656",
+          "Dezena no sétimo prêmio!<br>com o palpite 5656",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 5656"
+        ],
+        "6450": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 6450",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 6450",
+          "Dezena no primeiro prêmio!<br>com o palpite 6450",
+          "GALO 🐓 no primeiro prêmio!<br>com o palpite 6450"
+        ],
+        "6774": [
+          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 6774",
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 6774",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 6774",
+          "Dezena no décimo prêmio!<br>com o palpite 6774",
+          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 6774"
+        ],
+        "6980": [
+          "Dezena no segundo prêmio!<br>com o palpite 6980",
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 6980",
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 6980",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 6980",
+          "Dezena no quarto prêmio!<br>com o palpite 6980",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 6980",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 6980"
+        ],
+        "7621": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 7621",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 7621",
+          "Dezena no terceiro prêmio!<br>com o palpite 7621",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 7621"
+        ],
+        "8355": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 8355",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 8355",
+          "Dezena no quinto prêmio!<br>com o palpite 8355",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 8355",
+          "GATO 🐈 no sétimo prêmio!<br>com o palpite 8355"
+        ],
+        "0475": [
+          "Milhar e Centena no nono prêmio!<br>com o palpite 0475",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 0475",
+          "Dezena no nono prêmio!<br>com o palpite 0475",
+          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 0475",
+          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 0475"
+        ]
+      },
+      "acertos": {
+        "Milhar": 10,
+        "Centena": 20,
+        "Dezena": 25,
+        "Grupo": [
+          "🐓",
+          "🦃",
+          "🐐",
+          "🐈",
+          "🐇",
+          "🦚"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 6450, 4780, 7621, 6980, 8355, 5140, 5656, 3577, 0475, 6774, 2040, 6209, 7983, 4180, 0248, 7557, 3382, 7825, 7612, 8345"
     }
   }
 }
