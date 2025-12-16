@@ -491,23 +491,6 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 7310, 0143, 5281, 0933, 8548, 7050, 3129, 1483, 0313, 4190, 7282, 5974, 8202, 1651, 5803, 7581, 2926, 8705, 2421, 0545"
-    },
-    "LOTEP - PB, 18h": {
-      "cabecalhos": [
-        "Prêmio",
-        "Milhar",
-        "Grupo",
-        "Bicho"
-      ],
-      "dados": [],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
-      },
-      "resumo": "Aguardando resultado do sorteio."
     }
   }
 }
