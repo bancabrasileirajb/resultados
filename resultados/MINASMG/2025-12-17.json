@@ -115,6 +115,109 @@
         "Grupo",
         "Bicho"
       ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4928",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5938",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5079",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7009",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8513",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "31467",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "262",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1126": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1126"
+        ],
+        "1926": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1926"
+        ],
+        "4928": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 4928",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 4928",
+          "Dezena no primeiro prêmio!<br>com o palpite 4928",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 4928"
+        ],
+        "5079": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 5079",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 5079",
+          "Dezena no terceiro prêmio!<br>com o palpite 5079",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 5079"
+        ],
+        "5938": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 5938",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 5938",
+          "Dezena no segundo prêmio!<br>com o palpite 5938",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 5938"
+        ],
+        "7009": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 7009",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 7009",
+          "Dezena no quarto prêmio!<br>com o palpite 7009",
+          "BURRO 🐴 no quarto prêmio!<br>com o palpite 7009"
+        ],
+        "8513": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 8513",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 8513",
+          "Dezena no quinto prêmio!<br>com o palpite 8513",
+          "BORBOLETA 🦋 no quinto prêmio!<br>com o palpite 8513"
+        ]
+      },
+      "acertos": {
+        "Milhar": 5,
+        "Centena": 10,
+        "Dezena": 10,
+        "Grupo": [
+          "🐑",
+          "🐇",
+          "🦃",
+          "🐴",
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 4928, 5938, 5079, 7009, 8513, 9824, 9236, 9959, 0388, 5147, 9596, 1704, 3120, 3103, 1926, 2702, 6645, 7719, 1126, 8333"
+    },
+    "MINAS FEDERAL - MG": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
       "dados": [],
       "frases": {},
       "acertos": {
