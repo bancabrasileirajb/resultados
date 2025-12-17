@@ -501,15 +501,78 @@
         "Grupo",
         "Bicho"
       ],
-      "dados": [],
-      "frases": {},
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9015",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5794",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0550",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9017",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3549",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "7925",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "022",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2723": [
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 2723",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 2723"
+        ],
+        "5326": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 5326",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 5326"
+        ],
+        "7621": [
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 7621",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 7621"
+        ],
+        "9026": [
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 9026",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 9026"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐑",
+          "🐐"
+        ]
       },
-      "resumo": "Aguardando resultado do sorteio."
+      "resumo": "Palpites dados para esta extração: 9026, 3971, 5326, 6639, 7621, 9356, 0936, 2723, 6169, 1767, 9026, 3971, 5326, 6639, 7621, 9356, 0936, 2723, 6169, 1767"
     }
   },
   "1-10": {
@@ -1528,7 +1591,68 @@
         "Grupo",
         "Bicho"
       ],
-      "dados": [],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9015",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5794",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0550",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9017",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3549",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9509",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0750",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "1951",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5407",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5542",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -1536,7 +1660,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Aguardando resultado do sorteio."
+      "resumo": "Palpites dados para esta extração: 9026, 3971, 5326, 6639, 7621, 9356, 0936, 2723, 6169, 1767, 9026, 3971, 5326, 6639, 7621, 9356, 0936, 2723, 6169, 1767"
     }
   }
 }
