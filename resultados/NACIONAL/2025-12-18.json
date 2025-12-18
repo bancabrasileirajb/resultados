@@ -193,6 +193,89 @@
         "Grupo",
         "Bicho"
       ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9027",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5600",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8148",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4098",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "5698",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1328": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1328",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1328"
+        ],
+        "2398": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2398",
+          "Dezena no quinto prêmio!<br>com o palpite 2398",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 2398",
+          "Dezena no sexto prêmio!<br>com o palpite 2398",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 2398"
+        ],
+        "7497": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 7497",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 7497",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 7497"
+        ],
+        "9647": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 9647"
+        ],
+        "0625": [
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 0625",
+          "Dezena no quarto prêmio!<br>com o palpite 0625",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 0625"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🐑",
+          "🐄",
+          "🐘"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3250, 2517, 9835, 1150, 3889, 3291, 2581, 5135, 0750, 2398, 7497, 0625, 9647, 6410, 1328, 7096, 4664, 9241, 7570, 4078"
+    },
+    "Nacional - LN 15:00": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
       "dados": [],
       "frases": {},
       "acertos": {
