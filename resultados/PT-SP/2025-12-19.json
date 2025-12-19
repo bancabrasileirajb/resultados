@@ -301,6 +301,82 @@
         "Grupo",
         "Bicho"
       ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8857",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3980",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3877",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9775",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "8635",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "250",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3676": [
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 3676"
+        ],
+        "7146": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 7146",
+          "Dezena no quinto prêmio!<br>com o palpite 7146",
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 7146"
+        ],
+        "0246": [
+          "Dezena no quinto prêmio!<br>com o palpite 0246",
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 0246"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🦚",
+          "🐘"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3623, 0246, 1097, 5486, 7146, 3015, 6204, 2498, 3676, 2991, 6240, 2682, 8408, 1237, 2231, 6281, 2642, 4803, 0287, 4811"
+    },
+    "SP, 19hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
       "dados": [],
       "frases": {},
       "acertos": {
@@ -967,6 +1043,186 @@
       "resumo": "Palpites dados para esta extração: 3623, 0246, 1097, 5486, 7146, 3015, 6204, 2498, 3676, 2991, 6240, 2682, 8408, 1237, 2231, 6281, 2642, 4803, 0287, 4811"
     },
     "SP, 17hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8857",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3980",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3877",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9775",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "2146",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8339",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8987",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5877",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7075",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "8913",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        }
+      ],
+      "frases": {
+        "2146": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 2146",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 2146",
+          "Dezena no quinto prêmio!<br>com o palpite 2146",
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 2146"
+        ],
+        "3015": [
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 3015"
+        ],
+        "3676": [
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 3676",
+          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 3676"
+        ],
+        "3877": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 3877",
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 3877",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 3877",
+          "Dezena no terceiro prêmio!<br>com o palpite 3877",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 3877",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 3877",
+          "Dezena no oitavo prêmio!<br>com o palpite 3877",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 3877"
+        ],
+        "3980": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 3980",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 3980",
+          "Dezena no segundo prêmio!<br>com o palpite 3980",
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 3980",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 3980",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 3980"
+        ],
+        "5486": [
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 5486"
+        ],
+        "5877": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 5877",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 5877",
+          "Dezena no terceiro prêmio!<br>com o palpite 5877",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 5877",
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 5877",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 5877",
+          "Dezena no oitavo prêmio!<br>com o palpite 5877",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 5877"
+        ],
+        "7075": [
+          "Dezena no quarto prêmio!<br>com o palpite 7075",
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 7075",
+          "Milhar e Centena no nono prêmio!<br>com o palpite 7075",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 7075",
+          "Dezena no nono prêmio!<br>com o palpite 7075",
+          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 7075"
+        ],
+        "7146": [
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 7146",
+          "Dezena no quinto prêmio!<br>com o palpite 7146",
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 7146"
+        ],
+        "8339": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 8339",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 8339",
+          "Dezena no sexto prêmio!<br>com o palpite 8339",
+          "COELHO 🐇 no sexto prêmio!<br>com o palpite 8339"
+        ],
+        "8857": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 8857",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 8857",
+          "Dezena no primeiro prêmio!<br>com o palpite 8857",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 8857"
+        ],
+        "8913": [
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 8913",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 8913",
+          "Dezena no décimo prêmio!<br>com o palpite 8913",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 8913"
+        ],
+        "8987": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 8987",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 8987",
+          "Dezena no sétimo prêmio!<br>com o palpite 8987",
+          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 8987"
+        ],
+        "9775": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 9775",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 9775",
+          "Dezena no quarto prêmio!<br>com o palpite 9775",
+          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 9775",
+          "Dezena no nono prêmio!<br>com o palpite 9775",
+          "PAVÃO 🦚 no nono prêmio!<br>com o palpite 9775"
+        ],
+        "0246": [
+          "Dezena no quinto prêmio!<br>com o palpite 0246",
+          "ELEFANTE 🐘 no quinto prêmio!<br>com o palpite 0246"
+        ]
+      },
+      "acertos": {
+        "Milhar": 10,
+        "Centena": 23,
+        "Dezena": 29,
+        "Grupo": [
+          "🐊",
+          "🦃",
+          "🦚",
+          "🐘",
+          "🐇",
+          "🐅",
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8857, 3980, 3877, 9775, 2146, 8339, 8987, 5877, 7075, 8913, 3623, 0246, 1097, 5486, 7146, 3015, 6204, 2498, 3676, 2991"
+    },
+    "SP, 19hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
