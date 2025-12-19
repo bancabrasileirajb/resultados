@@ -345,6 +345,84 @@
         "Grupo",
         "Bicho"
       ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1783",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9463",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5025",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4132",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6080",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "6483",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "872",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2572": [
+          "Dezena no sétimo prêmio!<br>com o palpite 2572",
+          "PORCO 🐖 no sétimo prêmio!<br>com o palpite 2572"
+        ],
+        "6226": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 6226"
+        ],
+        "9477": [
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 9477"
+        ],
+        "0077": [
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 0077"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🐑",
+          "🦃",
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2572, 6689, 0253, 0077, 1002, 2600, 5620, 7857, 2937, 9607, 2319, 5058, 9477, 4865, 6226, 2594, 3048, 1576, 9875, 5038"
+    },
+    "LOOK - GOIÁS, 18h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
       "dados": [],
       "frases": {},
       "acertos": {
@@ -1012,6 +1090,165 @@
       "resumo": "Palpites dados para esta extração: 2572, 6689, 0253, 0077, 1002, 2600, 5620, 7857, 2937, 9607, 2319, 5058, 9477, 4865, 6226, 2594, 3048, 1576, 9875, 5038"
     },
     "LOOK - GOIÁS, 16h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1783",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9463",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5025",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4132",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6080",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1954",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7401",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8623",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3352",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7813",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        }
+      ],
+      "frases": {
+        "1002": [
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 1002"
+        ],
+        "1783": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 1783",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 1783",
+          "Dezena no primeiro prêmio!<br>com o palpite 1783",
+          "TOURO 🐂 no primeiro prêmio!<br>com o palpite 1783"
+        ],
+        "1954": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 1954",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 1954",
+          "Dezena no sexto prêmio!<br>com o palpite 1954",
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 1954"
+        ],
+        "3352": [
+          "Milhar e Centena no nono prêmio!<br>com o palpite 3352",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 3352",
+          "Dezena no nono prêmio!<br>com o palpite 3352",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 3352"
+        ],
+        "4132": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 4132",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 4132",
+          "Dezena no quarto prêmio!<br>com o palpite 4132",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 4132"
+        ],
+        "5025": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 5025",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 5025",
+          "Dezena no terceiro prêmio!<br>com o palpite 5025",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 5025"
+        ],
+        "6080": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 6080",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 6080",
+          "Dezena no quinto prêmio!<br>com o palpite 6080",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 6080"
+        ],
+        "7401": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 7401",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7401",
+          "Dezena no sétimo prêmio!<br>com o palpite 7401",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 7401"
+        ],
+        "7813": [
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 7813",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 7813",
+          "Dezena no décimo prêmio!<br>com o palpite 7813",
+          "BORBOLETA 🦋 no décimo prêmio!<br>com o palpite 7813"
+        ],
+        "8623": [
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 8623",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 8623",
+          "Dezena no oitavo prêmio!<br>com o palpite 8623",
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 8623"
+        ],
+        "9463": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 9463",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 9463",
+          "Dezena no segundo prêmio!<br>com o palpite 9463",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9463"
+        ],
+        "0077": [
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 0077"
+        ],
+        "0253": [
+          "GATO 🐈 no sexto prêmio!<br>com o palpite 0253"
+        ]
+      },
+      "acertos": {
+        "Milhar": 10,
+        "Centena": 20,
+        "Dezena": 20,
+        "Grupo": [
+          "🐂",
+          "🦁",
+          "🐑",
+          "🐪",
+          "🦃",
+          "🐈",
+          "🪶",
+          "🐐",
+          "🐓",
+          "🦋"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1783, 9463, 5025, 4132, 6080, 1954, 7401, 8623, 3352, 7813, 2572, 6689, 0253, 0077, 1002, 2600, 5620, 7857, 2937, 9607"
+    },
+    "LOOK - GOIÁS, 18h do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
