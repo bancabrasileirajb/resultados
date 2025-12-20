@@ -782,15 +782,99 @@
         "Grupo",
         "Bicho"
       ],
-      "dados": [],
-      "frases": {},
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7229",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5422",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0804",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5119",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0970",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2896",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0500",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6182",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7627",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4626",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        }
+      ],
+      "frases": {
+        "5524": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5524",
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 5524"
+        ],
+        "5570": [
+          "Dezena no quinto prêmio!<br>com o palpite 5570",
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 5570",
+          "Dezena no quinto prêmio!<br>com o palpite 5570",
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 5570"
+        ],
+        "6869": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 6869",
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 6869"
+        ],
+        "0203": [
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 0203",
+          "AVESTRUZ 🪶 no terceiro prêmio!<br>com o palpite 0203"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐐",
+          "🪶",
+          "🐖"
+        ]
       },
-      "resumo": "Aguardando resultado do sorteio."
+      "resumo": "Palpites dados para esta extração: 4807, 5190, 0203, 6869, 5570, 3408, 5524, 2488, 1205, 1010, 4807, 5190, 0203, 6869, 5570, 3408, 5524, 2488, 1205, 1010"
     }
   }
 }
