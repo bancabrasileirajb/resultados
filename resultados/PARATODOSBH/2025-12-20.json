@@ -1,0 +1,187 @@
+{
+  "1-10": {
+    "10h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0722",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2934",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7449",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0397",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3700",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2119",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "7799",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3364",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5187",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1485",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
+      ],
+      "frases": {
+        "1485": [
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 1485",
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 1485",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 1485",
+          "Dezena no décimo prêmio!<br>com o palpite 1485",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 1485"
+        ],
+        "2119": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 2119",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 2119",
+          "Dezena no sexto prêmio!<br>com o palpite 2119",
+          "CACHORRO 🐕 no sexto prêmio!<br>com o palpite 2119"
+        ],
+        "2934": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 2934",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2934",
+          "Dezena no segundo prêmio!<br>com o palpite 2934",
+          "COBRA 🐍 no segundo prêmio!<br>com o palpite 2934"
+        ],
+        "3364": [
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 3364",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 3364",
+          "Dezena no oitavo prêmio!<br>com o palpite 3364",
+          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 3364"
+        ],
+        "3700": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 3700",
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 3700",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 3700",
+          "Dezena no quinto prêmio!<br>com o palpite 3700",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 3700",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 3700"
+        ],
+        "5187": [
+          "Milhar e Centena no nono prêmio!<br>com o palpite 5187",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 5187",
+          "Dezena no nono prêmio!<br>com o palpite 5187",
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 5187",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 5187"
+        ],
+        "7449": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 7449",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 7449",
+          "Dezena no terceiro prêmio!<br>com o palpite 7449",
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 7449"
+        ],
+        "7799": [
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 7799",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 7799",
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 7799",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7799",
+          "Dezena no sétimo prêmio!<br>com o palpite 7799",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 7799"
+        ],
+        "8751": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 8751"
+        ],
+        "9223": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 9223"
+        ],
+        "0722": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 0722",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 0722",
+          "Dezena no primeiro prêmio!<br>com o palpite 0722",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 0722"
+        ],
+        "0397": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 0397",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 0397",
+          "Dezena no quarto prêmio!<br>com o palpite 0397",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 0397",
+          "VACA 🐄 no quinto prêmio!<br>com o palpite 0397",
+          "VACA 🐄 no sétimo prêmio!<br>com o palpite 0397"
+        ],
+        "0785": [
+          "TIGRE 🐅 no nono prêmio!<br>com o palpite 0785",
+          "Dezena no décimo prêmio!<br>com o palpite 0785",
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 0785"
+        ]
+      },
+      "acertos": {
+        "Milhar": 10,
+        "Centena": 20,
+        "Dezena": 21,
+        "Grupo": [
+          "🐐",
+          "🐍",
+          "🐓",
+          "🐄",
+          "🐕",
+          "🦁",
+          "🐅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0722, 2934, 7449, 0397, 3700, 2119, 7799, 3364, 5187, 1485, 9223, 2955, 2054, 2910, 9144, 0785, 4955, 8751, 4544, 0991"
+    },
+    "12h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Aguardando resultado do sorteio."
+    }
+  }
+}
