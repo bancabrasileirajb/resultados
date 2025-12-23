@@ -159,6 +159,81 @@
         "Grupo",
         "Bicho"
       ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3685",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7200",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7125",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1451",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0753",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "0214",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "532",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2731": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 2731"
+        ],
+        "7800": [
+          "Dezena no segundo prêmio!<br>com o palpite 7800",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 7800"
+        ],
+        "9049": [
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9049"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 1,
+        "Grupo": [
+          "🐄",
+          "🐓",
+          "🐪"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9790, 9805, 0042, 4094, 2731, 9904, 7800, 9049, 0524, 3739, 1740, 7304, 0076, 4307, 5607, 1704, 7303, 4070, 0467, 2578"
+    },
+    "SP, 13hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
       "dados": [],
       "frases": {},
       "acertos": {
@@ -504,6 +579,170 @@
       "resumo": "Palpites dados para esta extração: 9790, 9805, 0042, 4094, 2731, 9904, 7800, 9049, 0524, 3739, 1740, 7304, 0076, 4307, 5607, 1704, 7303, 4070, 0467, 2578"
     },
     "SP, 12:00 - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3685",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7200",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7125",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1451",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0753",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3771",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6214",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8025",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5051",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3275",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
+      ],
+      "frases": {
+        "1451": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 1451",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1451",
+          "Dezena no quarto prêmio!<br>com o palpite 1451",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 1451",
+          "Dezena no nono prêmio!<br>com o palpite 1451",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 1451"
+        ],
+        "3275": [
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 3275",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 3275",
+          "Dezena no décimo prêmio!<br>com o palpite 3275",
+          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 3275"
+        ],
+        "3685": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 3685",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 3685",
+          "Dezena no primeiro prêmio!<br>com o palpite 3685",
+          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 3685"
+        ],
+        "3771": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 3771",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 3771",
+          "Dezena no sexto prêmio!<br>com o palpite 3771",
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 3771"
+        ],
+        "5051": [
+          "Dezena no quarto prêmio!<br>com o palpite 5051",
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 5051",
+          "Milhar e Centena no nono prêmio!<br>com o palpite 5051",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 5051",
+          "Dezena no nono prêmio!<br>com o palpite 5051",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 5051"
+        ],
+        "6214": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 6214",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6214",
+          "Dezena no sétimo prêmio!<br>com o palpite 6214",
+          "BORBOLETA 🦋 no sétimo prêmio!<br>com o palpite 6214"
+        ],
+        "7125": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 7125",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 7125",
+          "Dezena no terceiro prêmio!<br>com o palpite 7125",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 7125",
+          "Dezena no oitavo prêmio!<br>com o palpite 7125",
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 7125"
+        ],
+        "7200": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 7200",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7200",
+          "Dezena no segundo prêmio!<br>com o palpite 7200",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 7200"
+        ],
+        "7800": [
+          "Dezena no segundo prêmio!<br>com o palpite 7800",
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 7800"
+        ],
+        "8025": [
+          "Dezena no terceiro prêmio!<br>com o palpite 8025",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 8025",
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 8025",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 8025",
+          "Dezena no oitavo prêmio!<br>com o palpite 8025",
+          "CARNEIRO 🐑 no oitavo prêmio!<br>com o palpite 8025"
+        ],
+        "9049": [
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9049",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 9049"
+        ],
+        "0753": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 0753",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 0753",
+          "Dezena no quinto prêmio!<br>com o palpite 0753",
+          "GATO 🐈 no quinto prêmio!<br>com o palpite 0753"
+        ]
+      },
+      "acertos": {
+        "Milhar": 10,
+        "Centena": 20,
+        "Dezena": 25,
+        "Grupo": [
+          "🐅",
+          "🐄",
+          "🐑",
+          "🐓",
+          "🐈",
+          "🐖",
+          "🦋",
+          "🦚"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3685, 7200, 7125, 1451, 0753, 3771, 6214, 8025, 5051, 3275, 9790, 9805, 0042, 4094, 2731, 9904, 7800, 9049, 0524, 3739"
+    },
+    "SP, 13hs - PTSP do 1º ao 10º": {
       "cabecalhos": [
         "Prêmio",
         "Milhar",
