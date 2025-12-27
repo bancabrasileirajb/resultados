@@ -313,15 +313,79 @@
         "Grupo",
         "Bicho"
       ],
-      "dados": [],
-      "frases": {},
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7260",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2390",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3987",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3311",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1970",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "539",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2959": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 2959",
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 2959"
+        ],
+        "3072": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 3072",
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 3072"
+        ],
+        "3569": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 3569",
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 3569"
+        ],
+        "3989": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 3989",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 3989"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐊",
+          "🐻",
+          "🐖"
+        ]
       },
-      "resumo": "Aguardando resultado do sorteio."
+      "resumo": "Palpites dados para esta extração: 3072, 9279, 8855, 9019, 8365, 3989, 0280, 7751, 2959, 3569, 3072, 9279, 8855, 9019, 8365, 3989, 0280, 7751, 2959, 3569"
     }
   },
   "1-10": {
@@ -979,15 +1043,88 @@
         "Grupo",
         "Bicho"
       ],
-      "dados": [],
-      "frases": {},
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7260",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2390",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3987",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3311",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "5723",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0239",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2698",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "2007",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2637",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        }
+      ],
+      "frases": {
+        "2959": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 2959",
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 2959"
+        ],
+        "3989": [
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 3989",
+          "URSO 🐻 no terceiro prêmio!<br>com o palpite 3989"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐊",
+          "🐻"
+        ]
       },
-      "resumo": "Aguardando resultado do sorteio."
+      "resumo": "Palpites dados para esta extração: 3072, 9279, 8855, 9019, 8365, 3989, 0280, 7751, 2959, 3569, 3072, 9279, 8855, 9019, 8365, 3989, 0280, 7751, 2959, 3569"
     }
   }
 }
