@@ -772,119 +772,92 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "8386",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "5022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "0587",
+          "Milhar": "7260",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2390",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3987",
           "Grupo": "22",
           "Bicho": "Tigre"
         },
         {
-          "Prêmio": "3º",
-          "Milhar": "5435",
-          "Grupo": "09",
-          "Bicho": "Cobra"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "3615",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
-        },
-        {
           "Prêmio": "5º",
-          "Milhar": "6004",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "3311",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "4898",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "5723",
+          "Grupo": "06",
+          "Bicho": "Cabra"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "6182",
-          "Grupo": "21",
-          "Bicho": "Touro"
+          "Milhar": "0239",
+          "Grupo": "10",
+          "Bicho": "Coelho"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "8800",
+          "Milhar": "2698",
           "Grupo": "25",
           "Bicho": "Vaca"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "2202",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "2007",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "0975",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "2637",
+          "Grupo": "10",
+          "Bicho": "Coelho"
         }
       ],
       "frases": {
-        "2175": [
-          "Dezena no décimo prêmio!<br>com o palpite 2175",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 2175"
-        ],
-        "2336": [
-          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 2336"
-        ],
         "3597": [
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 3597",
+          "VACA 🐄 no oitavo prêmio!<br>com o palpite 3597",
           "VACA 🐄 no oitavo prêmio!<br>com o palpite 3597"
         ],
-        "3813": [
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 3813"
-        ],
         "3887": [
-          "TIGRE 🐅 no primeiro prêmio!<br>com o palpite 3887",
-          "Dezena no segundo prêmio!<br>com o palpite 3887",
-          "TIGRE 🐅 no segundo prêmio!<br>com o palpite 3887"
+          "Dezena no quarto prêmio!<br>com o palpite 3887",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 3887",
+          "Dezena no quarto prêmio!<br>com o palpite 3887",
+          "TIGRE 🐅 no quarto prêmio!<br>com o palpite 3887"
         ],
-        "4503": [
-          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4503",
-          "AVESTRUZ 🪶 no nono prêmio!<br>com o palpite 4503"
-        ],
-        "5034": [
-          "COBRA 🐍 no terceiro prêmio!<br>com o palpite 5034"
-        ],
-        "5875": [
-          "Dezena no décimo prêmio!<br>com o palpite 5875",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 5875"
-        ],
-        "9075": [
-          "Dezena no décimo prêmio!<br>com o palpite 9075",
-          "PAVÃO 🦚 no décimo prêmio!<br>com o palpite 9075"
-        ],
-        "9115": [
-          "Dezena no quarto prêmio!<br>com o palpite 9115",
-          "BORBOLETA 🦋 no quarto prêmio!<br>com o palpite 9115"
+        "4158": [
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 4158",
+          "JACARÉ 🐊 no segundo prêmio!<br>com o palpite 4158"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 5,
+        "Dezena": 2,
         "Grupo": [
+          "🐊",
           "🐅",
-          "🐍",
-          "🦋",
-          "🪶",
-          "🐄",
-          "🦚"
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 7854, 2948, 4158, 3597, 2175, 9115, 2336, 5034, 2768, 3887, 0225, 1261, 3813, 1080, 4503, 2012, 5549, 9075, 5875, 9806"
+      "resumo": "Palpites dados para esta extração: 7854, 2948, 4158, 3597, 2175, 9115, 2336, 5034, 2768, 3887, 7854, 2948, 4158, 3597, 2175, 9115, 2336, 5034, 2768, 3887"
     }
   }
 }
