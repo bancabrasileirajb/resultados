@@ -219,7 +219,50 @@
         "Grupo",
         "Bicho"
       ],
-      "dados": [],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7260",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2390",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3987",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "3311",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1970",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "539",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
       "frases": {},
       "acertos": {
         "Milhar": 0,
@@ -227,7 +270,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Aguardando resultado do sorteio."
+      "resumo": "Palpites dados para esta extração: 3098, 5017, 0335, 1961, 7019, 3098, 5017, 0335, 1961, 7019, 3098, 5017, 0335, 1961, 7019, 3098, 5017, 0335, 1961, 7019"
     }
   }
 }
