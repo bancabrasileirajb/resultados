@@ -1,0 +1,189 @@
+{
+  "1-10": {
+    "10h - MALUCA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2621",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7696",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0522",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0503",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0826",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8781",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1807",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0680",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6249",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7823",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        }
+      ],
+      "frases": {
+        "1807": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 1807",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1807",
+          "Dezena no sétimo prêmio!<br>com o palpite 1807",
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1807"
+        ],
+        "2393": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 2393"
+        ],
+        "2621": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 2621",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2621",
+          "Dezena no primeiro prêmio!<br>com o palpite 2621",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 2621",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 2621",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 2621"
+        ],
+        "2980": [
+          "Dezena no oitavo prêmio!<br>com o palpite 2980",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 2980"
+        ],
+        "4308": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 4308"
+        ],
+        "5003": [
+          "Dezena no quarto prêmio!<br>com o palpite 5003",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5003"
+        ],
+        "6249": [
+          "Milhar e Centena no nono prêmio!<br>com o palpite 6249",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 6249",
+          "Dezena no nono prêmio!<br>com o palpite 6249",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 6249"
+        ],
+        "7696": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 7696",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7696",
+          "Dezena no segundo prêmio!<br>com o palpite 7696",
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 7696"
+        ],
+        "7823": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 7823",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 7823",
+          "Milhar e Centena no décimo prêmio!<br>com o palpite 7823",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 7823",
+          "Dezena no décimo prêmio!<br>com o palpite 7823",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 7823"
+        ],
+        "8781": [
+          "Milhar e Centena no sexto prêmio!<br>com o palpite 8781",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 8781",
+          "Dezena no sexto prêmio!<br>com o palpite 8781",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 8781"
+        ],
+        "0522": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 0522",
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 0522",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 0522",
+          "Dezena no terceiro prêmio!<br>com o palpite 0522",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 0522",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 0522"
+        ],
+        "0503": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 0503",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 0503",
+          "Dezena no quarto prêmio!<br>com o palpite 0503",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 0503"
+        ],
+        "0826": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 0826",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 0826",
+          "Dezena no quinto prêmio!<br>com o palpite 0826",
+          "CARNEIRO 🐑 no quinto prêmio!<br>com o palpite 0826"
+        ],
+        "0680": [
+          "Milhar e Centena no oitavo prêmio!<br>com o palpite 0680",
+          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0680",
+          "Dezena no oitavo prêmio!<br>com o palpite 0680",
+          "PERU 🦃 no oitavo prêmio!<br>com o palpite 0680"
+        ]
+      },
+      "acertos": {
+        "Milhar": 10,
+        "Centena": 20,
+        "Dezena": 22,
+        "Grupo": [
+          "🐐",
+          "🦌",
+          "🪶",
+          "🐑",
+          "🐂",
+          "🦅",
+          "🦃",
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2621, 7696, 0522, 0503, 0826, 8781, 1807, 0680, 6249, 7823, 3168, 4832, 2980, 9237, 0710, 6965, 5003, 4308, 2393, 6348"
+    },
+    "12h - MALUCA - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Aguardando resultado do sorteio."
+    }
+  }
+}
