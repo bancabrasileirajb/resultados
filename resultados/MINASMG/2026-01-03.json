@@ -1,0 +1,137 @@
+{
+  "1-5": {
+    "ALVORADA - MG, 12h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8060",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8302",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9624",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6603",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4278",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "36867",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "914",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1304": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1304",
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1304",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1304",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 1304"
+        ],
+        "2980": [
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 2980",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 2980"
+        ],
+        "4278": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 4278",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 4278",
+          "Dezena no quinto prêmio!<br>com o palpite 4278",
+          "PERU 🦃 no quinto prêmio!<br>com o palpite 4278"
+        ],
+        "6603": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 6603",
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 6603",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 6603",
+          "Dezena no quarto prêmio!<br>com o palpite 6603",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 6603"
+        ],
+        "7024": [
+          "Dezena no terceiro prêmio!<br>com o palpite 7024",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 7024"
+        ],
+        "7768": [
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 7768"
+        ],
+        "8060": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 8060",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 8060",
+          "Dezena no primeiro prêmio!<br>com o palpite 8060",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 8060"
+        ],
+        "8302": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 8302",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 8302",
+          "Dezena no segundo prêmio!<br>com o palpite 8302",
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 8302",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 8302"
+        ],
+        "9624": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 9624",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 9624",
+          "Dezena no terceiro prêmio!<br>com o palpite 9624",
+          "CABRA 🐐 no terceiro prêmio!<br>com o palpite 9624"
+        ]
+      },
+      "acertos": {
+        "Milhar": 5,
+        "Centena": 10,
+        "Dezena": 11,
+        "Grupo": [
+          "🐊",
+          "🪶",
+          "🐐",
+          "🦃",
+          "🐒"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8060, 8302, 9624, 6603, 4278, 6285, 7768, 7024, 7851, 0926, 2980, 1385, 0073, 1304, 6375, 2980, 1385, 0073, 1304, 6375"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Aguardando resultado do sorteio."
+    }
+  }
+}
