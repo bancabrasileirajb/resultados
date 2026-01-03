@@ -489,6 +489,23 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 3815, 2308, 3140, 9149, 5454, 3239, 8311, 1044, 5809, 2269, 3815, 2308, 3140, 9149, 5454, 3239, 8311, 1044, 5809, 2269"
+    },
+    "PB - FEDERAL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Aguardando resultado do sorteio."
     }
   }
 }
