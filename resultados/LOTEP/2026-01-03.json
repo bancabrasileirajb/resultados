@@ -655,6 +655,110 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 4617, 9640, 2662, 3759, 2158, 4923, 6667, 1465, 7029, 2920, 0204, 8621, 2733, 4002, 4289, 0824, 2670, 0230, 4132, 7705"
+    },
+    "PB - FEDERAL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2321",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5343",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2645",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5132",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9557",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2525",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3361",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "2443",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1352",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4679",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        }
+      ],
+      "frases": {
+        "2158": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 2158",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 2158"
+        ],
+        "2662": [
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 2662",
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 2662"
+        ],
+        "3759": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 3759",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 3759"
+        ],
+        "4923": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 4923",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 4923"
+        ],
+        "7029": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 7029",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 7029"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐐",
+          "🐪",
+          "🐊",
+          "🦁"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 4617, 9640, 2662, 3759, 2158, 4923, 6667, 1465, 7029, 2920, 4617, 9640, 2662, 3759, 2158, 4923, 6667, 1465, 7029, 2920"
     }
   }
 }
