@@ -234,15 +234,84 @@
         "Grupo",
         "Bicho"
       ],
-      "dados": [],
-      "frases": {},
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2321",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5343",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2645",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5132",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9557",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4998",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "591",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "6331": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 6331",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 6331"
+        ],
+        "7024": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 7024"
+        ],
+        "8060": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 8060"
+        ],
+        "8624": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 8624",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 8624"
+        ],
+        "9624": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 9624"
+        ],
+        "9630": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 9630",
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 9630"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐐",
+          "🐪",
+          "🐊"
+        ]
       },
-      "resumo": "Aguardando resultado do sorteio."
+      "resumo": "Palpites dados para esta extração: 1610, 6331, 8624, 9630, 2454, 1610, 6331, 8624, 9630, 2454, 8060, 8302, 9624, 6603, 4278, 6285, 7768, 7024, 7851, 0926"
     }
   }
 }
