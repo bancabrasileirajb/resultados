@@ -559,100 +559,40 @@
       ],
       "frases": {
         "1230": [
+          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 1230",
           "CAMELO 🐪 no quarto prêmio!<br>com o palpite 1230"
         ],
-        "1484": [
-          "Milhar e Centena no décimo prêmio!<br>com o palpite 1484",
-          "Centena e Dezena no décimo prêmio!<br>com o palpite 1484",
-          "Dezena no décimo prêmio!<br>com o palpite 1484",
-          "TOURO 🐂 no décimo prêmio!<br>com o palpite 1484"
-        ],
-        "2321": [
-          "Milhar e Centena no primeiro prêmio!<br>com o palpite 2321",
-          "Centena e Dezena no primeiro prêmio!<br>com o palpite 2321",
-          "Dezena no primeiro prêmio!<br>com o palpite 2321",
-          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 2321"
-        ],
-        "2645": [
-          "Milhar e Centena no terceiro prêmio!<br>com o palpite 2645",
-          "Centena e Dezena no terceiro prêmio!<br>com o palpite 2645",
-          "Dezena no terceiro prêmio!<br>com o palpite 2645",
-          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 2645"
-        ],
-        "3488": [
-          "Milhar e Centena no sétimo prêmio!<br>com o palpite 3488",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 3488",
-          "Dezena no sétimo prêmio!<br>com o palpite 3488",
-          "TIGRE 🐅 no sétimo prêmio!<br>com o palpite 3488"
-        ],
-        "3677": [
-          "Milhar e Centena no sexto prêmio!<br>com o palpite 3677",
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 3677",
-          "Dezena no sexto prêmio!<br>com o palpite 3677",
-          "PERU 🦃 no sexto prêmio!<br>com o palpite 3677"
-        ],
         "4147": [
+          "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 4147",
           "ELEFANTE 🐘 no terceiro prêmio!<br>com o palpite 4147"
         ],
         "4621": [
           "Dezena no primeiro prêmio!<br>com o palpite 4621",
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 4621",
+          "Dezena no primeiro prêmio!<br>com o palpite 4621",
           "CABRA 🐐 no primeiro prêmio!<br>com o palpite 4621"
         ],
-        "5132": [
-          "Milhar e Centena no quarto prêmio!<br>com o palpite 5132",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 5132",
-          "Dezena no quarto prêmio!<br>com o palpite 5132",
-          "CAMELO 🐪 no quarto prêmio!<br>com o palpite 5132"
-        ],
-        "5343": [
-          "Milhar e Centena no segundo prêmio!<br>com o palpite 5343",
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 5343",
-          "Dezena no segundo prêmio!<br>com o palpite 5343",
-          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 5343"
-        ],
         "5523": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 5523",
           "CABRA 🐐 no primeiro prêmio!<br>com o palpite 5523"
         ],
-        "5876": [
-          "Milhar e Centena no oitavo prêmio!<br>com o palpite 5876",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 5876",
-          "Dezena no oitavo prêmio!<br>com o palpite 5876",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 5876"
-        ],
-        "8015": [
-          "Milhar e Centena no nono prêmio!<br>com o palpite 8015",
-          "Centena e Dezena no nono prêmio!<br>com o palpite 8015",
-          "Dezena no nono prêmio!<br>com o palpite 8015",
-          "BORBOLETA 🦋 no nono prêmio!<br>com o palpite 8015"
-        ],
         "9042": [
+          "CAVALO 🐎 no segundo prêmio!<br>com o palpite 9042",
           "CAVALO 🐎 no segundo prêmio!<br>com o palpite 9042"
-        ],
-        "9557": [
-          "Milhar e Centena no quinto prêmio!<br>com o palpite 9557",
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 9557",
-          "Dezena no quinto prêmio!<br>com o palpite 9557",
-          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 9557"
         ]
       },
       "acertos": {
-        "Milhar": 10,
-        "Centena": 20,
-        "Dezena": 21,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
         "Grupo": [
           "🐐",
           "🐎",
           "🐘",
-          "🐪",
-          "🐊",
-          "🦃",
-          "🐅",
-          "🦚",
-          "🦋",
-          "🐂"
+          "🐪"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0264, 1230, 3736, 9042, 2107, 4621, 5997, 5523, 4147, 9125, 2321, 5343, 2645, 5132, 9557, 3677, 3488, 5876, 8015, 1484"
+      "resumo": "Palpites dados para esta extração: 0264, 1230, 3736, 9042, 2107, 4621, 5997, 5523, 4147, 9125, 0264, 1230, 3736, 9042, 2107, 4621, 5997, 5523, 4147, 9125"
     },
     "21h - BA": {
       "cabecalhos": [
