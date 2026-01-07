@@ -663,111 +663,96 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9325",
-          "Grupo": "07",
-          "Bicho": "Carneiro"
+          "Milhar": "0160",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "4664",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "9030",
+          "Grupo": "08",
+          "Bicho": "Camelo"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "7786",
-          "Grupo": "22",
-          "Bicho": "Tigre"
+          "Milhar": "6366",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "6891",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "7580",
+          "Grupo": "20",
+          "Bicho": "Peru"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "8752",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "1044",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "6016",
-          "Grupo": "04",
-          "Bicho": "Borboleta"
+          "Milhar": "0967",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "5865",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "1035",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "5089",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "1466",
+          "Milhar": "6368",
           "Grupo": "17",
           "Bicho": "Macaco"
         },
         {
+          "Prêmio": "9º",
+          "Milhar": "0060",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "0051",
-          "Grupo": "13",
-          "Bicho": "Galo"
+          "Milhar": "2610",
+          "Grupo": "03",
+          "Bicho": "Burro"
         }
       ],
       "frases": {
-        "1813": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 1813"
-        ],
-        "5287": [
-          "TIGRE 🐅 no terceiro prêmio!<br>com o palpite 5287"
-        ],
-        "5289": [
-          "URSO 🐻 no quarto prêmio!<br>com o palpite 5289",
-          "Dezena no oitavo prêmio!<br>com o palpite 5289",
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 5289"
+        "4941": [
+          "CAVALO 🐎 no quinto prêmio!<br>com o palpite 4941",
+          "CAVALO 🐎 no quinto prêmio!<br>com o palpite 4941"
         ],
         "5665": [
-          "Dezena no sétimo prêmio!<br>com o palpite 5665",
-          "MACACO 🐒 no sétimo prêmio!<br>com o palpite 5665",
-          "MACACO 🐒 no nono prêmio!<br>com o palpite 5665"
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 5665",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 5665",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 5665",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 5665",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 5665",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 5665"
         ],
-        "6413": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 6413"
-        ],
-        "6852": [
-          "Dezena no quinto prêmio!<br>com o palpite 6852",
-          "GALO 🐓 no quinto prêmio!<br>com o palpite 6852",
-          "GALO 🐓 no décimo prêmio!<br>com o palpite 6852"
-        ],
-        "0828": [
-          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 0828"
-        ],
-        "0315": [
-          "BORBOLETA 🦋 no sexto prêmio!<br>com o palpite 0315"
+        "9730": [
+          "Dezena no segundo prêmio!<br>com o palpite 9730",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 9730",
+          "Dezena no segundo prêmio!<br>com o palpite 9730",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 9730"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 2,
         "Grupo": [
-          "🐑",
-          "🐅",
-          "🐻",
-          "🐓",
-          "🦋",
-          "🐒"
+          "🐪",
+          "🐒",
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4981, 5171, 5289, 1813, 9299, 4941, 0315, 4570, 5665, 9730, 2336, 6852, 5669, 7932, 5287, 6413, 7557, 4823, 0828, 3880"
+      "resumo": "Palpites dados para esta extração: 4981, 5171, 5289, 1813, 9299, 4941, 0315, 4570, 5665, 9730, 4981, 5171, 5289, 1813, 9299, 4941, 0315, 4570, 5665, 9730"
     }
   }
 }
