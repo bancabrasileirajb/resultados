@@ -671,15 +671,96 @@
         "Grupo",
         "Bicho"
       ],
-      "dados": [],
-      "frases": {},
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0160",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9030",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6366",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7580",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1044",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0967",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "1035",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6368",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0060",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2610",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
+      ],
+      "frases": {
+        "6668": [
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 6668",
+          "MACACO 🐒 no terceiro prêmio!<br>com o palpite 6668",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 6668",
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 6668",
+          "Dezena no oitavo prêmio!<br>com o palpite 6668",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 6668",
+          "Dezena no oitavo prêmio!<br>com o palpite 6668",
+          "MACACO 🐒 no oitavo prêmio!<br>com o palpite 6668"
+        ],
+        "0759": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0759",
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 0759",
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 0759",
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 0759"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐊",
+          "🐒"
+        ]
       },
-      "resumo": "Aguardando resultado do sorteio."
+      "resumo": "Palpites dados para esta extração: 6620, 6817, 6715, 8039, 3516, 6668, 6870, 2113, 0759, 8117, 6620, 6817, 6715, 8039, 3516, 6668, 6870, 2113, 0759, 8117"
     }
   }
 }
