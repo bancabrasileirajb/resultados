@@ -221,15 +221,69 @@
         "Grupo",
         "Bicho"
       ],
-      "dados": [],
-      "frases": {},
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0160",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9030",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6366",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7580",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1044",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "4180",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "744",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1459": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 1459"
+        ],
+        "2231": [
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 2231",
+          "CAMELO 🐪 no segundo prêmio!<br>com o palpite 2231"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐊",
+          "🐪"
+        ]
       },
-      "resumo": "Aguardando resultado do sorteio."
+      "resumo": "Palpites dados para esta extração: 3915, 3110, 2231, 5370, 1538, 3915, 3110, 2231, 5370, 1538, 2319, 3811, 4854, 9246, 1459, 8871, 6674, 4186, 1518, 0955"
     }
   }
 }
