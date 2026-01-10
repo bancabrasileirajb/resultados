@@ -598,23 +598,6 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 4803, 6246, 0169, 6782, 5518, 4606, 8217, 0468, 3692, 0501, 4803, 6246, 0169, 6782, 5518, 4606, 8217, 0468, 3692, 0501"
-    },
-    "PB - FEDERAL": {
-      "cabecalhos": [
-        "Prêmio",
-        "Milhar",
-        "Grupo",
-        "Bicho"
-      ],
-      "dados": [],
-      "frases": {},
-      "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
-      },
-      "resumo": "Aguardando resultado do sorteio."
     }
   }
 }
