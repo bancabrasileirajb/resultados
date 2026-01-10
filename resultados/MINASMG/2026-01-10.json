@@ -228,15 +228,71 @@
         "Grupo",
         "Bicho"
       ],
-      "dados": [],
-      "frases": {},
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3009",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6491",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2364",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6003",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5251",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3118",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "801",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "5601": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5601",
+          "Dezena no sétimo prêmio!<br>com o palpite 5601",
+          "AVESTRUZ 🪶 no sétimo prêmio!<br>com o palpite 5601"
+        ],
+        "6351": [
+          "Dezena no quinto prêmio!<br>com o palpite 6351",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 6351"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🪶",
+          "🐓"
+        ]
       },
-      "resumo": "Aguardando resultado do sorteio."
+      "resumo": "Palpites dados para esta extração: 8021, 1047, 7615, 4326, 7514, 8021, 1047, 7615, 4326, 7514, 7396, 3540, 4505, 5601, 7857, 5408, 6351, 9974, 4660, 2306"
     }
   }
 }
