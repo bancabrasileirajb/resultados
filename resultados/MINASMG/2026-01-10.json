@@ -1,0 +1,131 @@
+{
+  "1-5": {
+    "ALVORADA - MG, 12h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "7396",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3540",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4505",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5601",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7857",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "28899",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "181",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2306": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 2306"
+        ],
+        "3540": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 3540",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 3540",
+          "Dezena no segundo prêmio!<br>com o palpite 3540",
+          "COELHO 🐇 no segundo prêmio!<br>com o palpite 3540"
+        ],
+        "4505": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 4505",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 4505",
+          "Dezena no terceiro prêmio!<br>com o palpite 4505",
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 4505"
+        ],
+        "4660": [
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 4660"
+        ],
+        "5303": [
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5303",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5303"
+        ],
+        "5408": [
+          "ÁGUIA 🦅 no terceiro prêmio!<br>com o palpite 5408"
+        ],
+        "5601": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 5601",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 5601",
+          "Dezena no quarto prêmio!<br>com o palpite 5601",
+          "AVESTRUZ 🪶 no quarto prêmio!<br>com o palpite 5601"
+        ],
+        "7396": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 7396",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 7396",
+          "Dezena no primeiro prêmio!<br>com o palpite 7396",
+          "VEADO 🦌 no primeiro prêmio!<br>com o palpite 7396"
+        ],
+        "7857": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 7857",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 7857",
+          "Dezena no quinto prêmio!<br>com o palpite 7857",
+          "JACARÉ 🐊 no quinto prêmio!<br>com o palpite 7857"
+        ]
+      },
+      "acertos": {
+        "Milhar": 5,
+        "Centena": 10,
+        "Dezena": 10,
+        "Grupo": [
+          "🦌",
+          "🐇",
+          "🦅",
+          "🪶",
+          "🐊"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7396, 3540, 4505, 5601, 7857, 5408, 6351, 9974, 4660, 2306, 3716, 5303, 9923, 9543, 6128, 3716, 5303, 9923, 9543, 6128"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Aguardando resultado do sorteio."
+    }
+  }
+}
