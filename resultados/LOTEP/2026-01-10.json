@@ -652,6 +652,101 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 8879, 3570, 0115, 8382, 0894, 8308, 8513, 7718, 9052, 5431, 7881, 0842, 0548, 8940, 0247, 7008, 8859, 8444, 1280, 4049"
+    },
+    "PB - FEDERAL": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3009",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6491",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2364",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6003",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5251",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3626",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0430",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0960",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9143",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7277",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        }
+      ],
+      "frases": {
+        "5431": [
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 5431",
+          "CAMELO 🐪 no sétimo prêmio!<br>com o palpite 5431"
+        ],
+        "8879": [
+          "PERU 🦃 no décimo prêmio!<br>com o palpite 8879",
+          "PERU 🦃 no décimo prêmio!<br>com o palpite 8879"
+        ],
+        "9052": [
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 9052",
+          "GALO 🐓 no quinto prêmio!<br>com o palpite 9052"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐓",
+          "🐪",
+          "🦃"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8879, 3570, 0115, 8382, 0894, 8308, 8513, 7718, 9052, 5431, 8879, 3570, 0115, 8382, 0894, 8308, 8513, 7718, 9052, 5431"
     }
   }
 }
