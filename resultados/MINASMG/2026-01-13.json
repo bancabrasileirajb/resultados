@@ -1,0 +1,132 @@
+{
+  "1-5": {
+    "ALVORADA - MG, 12h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3174",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5163",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3226",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7481",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4781",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "23825",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "387",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "3174": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 3174",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 3174",
+          "Dezena no primeiro prêmio!<br>com o palpite 3174",
+          "PAVÃO 🦚 no primeiro prêmio!<br>com o palpite 3174"
+        ],
+        "3226": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 3226",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 3226",
+          "Dezena no terceiro prêmio!<br>com o palpite 3226",
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 3226",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 3226"
+        ],
+        "4728": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 4728",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 4728"
+        ],
+        "4781": [
+          "Dezena no quarto prêmio!<br>com o palpite 4781",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 4781",
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 4781",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 4781",
+          "Dezena no quinto prêmio!<br>com o palpite 4781",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4781"
+        ],
+        "5163": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 5163",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 5163",
+          "Dezena no segundo prêmio!<br>com o palpite 5163",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 5163"
+        ],
+        "7481": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 7481",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 7481",
+          "Dezena no quarto prêmio!<br>com o palpite 7481",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 7481",
+          "Dezena no quinto prêmio!<br>com o palpite 7481",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7481"
+        ],
+        "7482": [
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 7482",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 7482",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7482",
+          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7482"
+        ]
+      },
+      "acertos": {
+        "Milhar": 5,
+        "Centena": 10,
+        "Dezena": 12,
+        "Grupo": [
+          "🦚",
+          "🦁",
+          "🐑",
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 3174, 5163, 3226, 7481, 4781, 4093, 5012, 4728, 3016, 0823, 6105, 7482, 2915, 5590, 0859, 6105, 7482, 2915, 5590, 0859"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Aguardando resultado do sorteio."
+    }
+  }
+}
