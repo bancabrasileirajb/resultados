@@ -265,6 +265,129 @@
         ]
       },
       "resumo": "Palpites dados para esta extração: 2799, 4560, 0795, 3486, 2194, 2799, 4560, 0795, 3486, 2194, 2799, 4560, 0795, 3486, 2194, 2799, 4560, 0795, 3486, 2194"
+    },
+    "PREFERIDA - MG, 21h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9414",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9163",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4511",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2277",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9207",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "34572",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "260",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2277": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 2277",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 2277",
+          "Dezena no quarto prêmio!<br>com o palpite 2277",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 2277"
+        ],
+        "4511": [
+          "Milhar e Centena no terceiro prêmio!<br>com o palpite 4511",
+          "Centena e Dezena no terceiro prêmio!<br>com o palpite 4511",
+          "Dezena no terceiro prêmio!<br>com o palpite 4511",
+          "BURRO 🐴 no terceiro prêmio!<br>com o palpite 4511"
+        ],
+        "4560": [
+          "Dezena no sétimo prêmio!<br>com o palpite 4560",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 4560",
+          "Dezena no sétimo prêmio!<br>com o palpite 4560",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 4560",
+          "Dezena no sétimo prêmio!<br>com o palpite 4560",
+          "JACARÉ 🐊 no sétimo prêmio!<br>com o palpite 4560"
+        ],
+        "9163": [
+          "Milhar e Centena no segundo prêmio!<br>com o palpite 9163",
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 9163",
+          "Dezena no segundo prêmio!<br>com o palpite 9163",
+          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9163"
+        ],
+        "9207": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 9207",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 9207",
+          "Dezena no quinto prêmio!<br>com o palpite 9207",
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 9207"
+        ],
+        "9414": [
+          "Milhar e Centena no primeiro prêmio!<br>com o palpite 9414",
+          "Centena e Dezena no primeiro prêmio!<br>com o palpite 9414",
+          "Dezena no primeiro prêmio!<br>com o palpite 9414",
+          "BORBOLETA 🦋 no primeiro prêmio!<br>com o palpite 9414"
+        ]
+      },
+      "acertos": {
+        "Milhar": 5,
+        "Centena": 10,
+        "Dezena": 13,
+        "Grupo": [
+          "🦋",
+          "🦁",
+          "🐴",
+          "🦃",
+          "🦅",
+          "🐊"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9414, 9163, 4511, 2277, 9207, 2799, 4560, 0795, 3486, 2194, 2799, 4560, 0795, 3486, 2194, 2799, 4560, 0795, 3486, 2194"
+    },
+    "SALVAÇÃO - MG, 13h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Aguardando resultado do sorteio."
     }
   }
 }
